@@ -1,0 +1,1 @@
+const { AutoKill } = require('autokill') AutoKill({Client: client, Time: 5000}) // Time Must be in Milliseconds And More Than 5 Seconds!
